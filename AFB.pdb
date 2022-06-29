@@ -1,0 +1,219 @@
+REMARK   1 File created by GaussView 5.0.9
+HETATM    1  C1  AFB Y   1      68.036 104.440  49.293                       C
+HETATM    2  O1  AFB Y   1      68.818 102.064  48.765                       O
+HETATM    3  C2  AFB Y   1      69.289 104.883  49.336                       C
+HETATM    4  O2  AFB Y   1      65.828 105.594  49.643                       O
+HETATM    5  C3  AFB Y   1      70.449 103.946  49.033                       C
+HETATM    6  O3  AFB Y   1      73.557 101.143  47.885                       O
+HETATM    7  C4  AFB Y   1      70.160 102.638  48.714                       C
+HETATM    8  O4  AFB Y   1      73.059  98.936  47.013                       O
+HETATM    9  C5  AFB Y   1      67.731 103.019  48.828                       C
+HETATM   10  O5  AFB Y   1      72.191 105.813  49.436                       O
+HETATM   11  C6  AFB Y   1      67.080 105.551  49.764                       C
+HETATM   12  O6  AFB Y   1      66.558 102.680  48.525                       O
+HETATM   13  C7  AFB Y   1      67.992 106.576  50.447                       C
+HETATM   14  C8  AFB Y   1      69.299 106.394  49.654                       C
+HETATM   15  C9  AFB Y   1      71.345 101.767  48.296                       C
+HETATM   16  C10 AFB Y   1      72.615 102.195  48.299                       C
+HETATM   17  C11 AFB Y   1      72.948 103.634  48.710                       C
+HETATM   18  C12 AFB Y   1      71.919 104.462  49.056                       C
+HETATM   19  C13 AFB Y   1      71.400 100.349  47.817                       C
+HETATM   20  C14 AFB Y   1      72.679 100.329  47.064                       C
+HETATM   21  C15 AFB Y   1      71.696  99.339  48.891                       C
+HETATM   22  C16 AFB Y   1      72.653  98.515  48.366                       C
+HETATM   23  C17 AFB Y   1      73.364 106.272  48.759                       C
+HETATM   24  H1  AFB Y   1      68.114 106.283  51.468                       H
+HETATM   25  H2  AFB Y   1      69.250 106.922  48.725                       H
+HETATM   26  H3  AFB Y   1      73.961 103.980  48.724                       H
+HETATM   27  H4  AFB Y   1      67.644 107.588  50.426                       H
+HETATM   28  H5  AFB Y   1      70.155 106.738  50.196                       H
+HETATM   29  H6  AFB Y   1      70.531 100.050  47.269                       H
+HETATM   30  H7  AFB Y   1      71.263  99.286  49.868                       H
+HETATM   31  H8  AFB Y   1      73.065  97.671  48.879                       H
+HETATM   32  H9  AFB Y   1      72.612 100.774  46.093                       H
+HETATM   33  H10 AFB Y   1      73.568 107.283  49.043                       H
+HETATM   34  H11 AFB Y   1      74.195 105.652  49.025                       H
+HETATM   35  H12 AFB Y   1      73.208 106.223  47.702                       H
+TER      35      AFB Y   1
+END
+CONECT    1    3    9   11
+CONECT    2    7    9
+CONECT    3    1    5   14
+CONECT    4   11
+CONECT    5    3    7   18
+CONECT    6   16   20
+CONECT    7    2    5   15
+CONECT    8   20   22
+CONECT    9    1    2   12
+CONECT   10   18   23
+CONECT   11    1    4   13
+CONECT   12    9
+CONECT   13   11   14   24   27
+CONECT   14    3   13   25   28
+CONECT   15    7   16   19
+CONECT   16    6   15   17
+CONECT   17   16   18   26
+CONECT   18    5   10   17
+CONECT   19   15   20   21   29
+CONECT   20    6    8   19   32
+CONECT   21   19   22   30
+CONECT   22    8   21   31
+CONECT   23   10   33   34   35
+CONECT   24   13
+CONECT   25   14
+CONECT   26   17
+CONECT   27   13
+CONECT   28   14
+CONECT   29   19
+CONECT   30   21
+CONECT   31   22
+CONECT   32   20
+CONECT   33   23
+CONECT   34   23
+CONECT   35   23
+REMARK   1 File created by GaussView 5.0.9
+HETATM    1  C1  AFB Y   1      67.993 104.452  49.172                       C
+HETATM    2  O1  AFB Y   1      68.800 102.069  48.721                       O
+HETATM    3  C2  AFB Y   1      69.241 104.909  49.202                       C
+HETATM    4  O2  AFB Y   1      65.773 105.594  49.481                       O
+HETATM    5  C3  AFB Y   1      70.411 103.974  48.932                       C
+HETATM    6  O3  AFB Y   1      73.549 101.168  47.879                       O
+HETATM    7  C4  AFB Y   1      70.136 102.654  48.655                       C
+HETATM    8  O4  AFB Y   1      73.076  98.929  47.077                       O
+HETATM    9  C5  AFB Y   1      67.703 103.014  48.752                       C
+HETATM   10  O5  AFB Y   1      72.134 105.871  49.278                       O
+HETATM   11  C6  AFB Y   1      67.025 105.568  49.606                       C
+HETATM   12  O6  AFB Y   1      66.534 102.653  48.458                       O
+HETATM   13  C7  AFB Y   1      67.926 106.623  50.257                       C
+HETATM   14  C8  AFB Y   1      69.236 106.429  49.473                       C
+HETATM   15  C9  AFB Y   1      71.331 101.783  48.266                       C
+HETATM   16  C10 AFB Y   1      72.596 102.223  48.258                       C
+HETATM   17  C11 AFB Y   1      72.915 103.677  48.623                       C
+HETATM   18  C12 AFB Y   1      71.876 104.506  48.941                       C
+HETATM   19  C13 AFB Y   1      71.401 100.350  47.833                       C
+HETATM   20  C14 AFB Y   1      72.681 100.319  47.083                       C
+HETATM   21  C15 AFB Y   1      71.705  99.378  48.939                       C
+HETATM   22  C16 AFB Y   1      72.672  98.548  48.442                       C
+HETATM   23  C17 AFB Y   1      71.878 106.075  50.670                       C
+HETATM   24  H1  AFB Y   1      68.049 106.364  51.288                       H
+HETATM   25  H2  AFB Y   1      69.183 106.927  48.527                       H
+HETATM   26  H3  AFB Y   1      73.923 104.034  48.628                       H
+HETATM   27  H4  AFB Y   1      67.567 107.630  50.203                       H
+HETATM   28  H5  AFB Y   1      70.087 106.799  50.005                       H
+HETATM   29  H6  AFB Y   1      70.536 100.025  47.293                       H
+HETATM   30  H7  AFB Y   1      71.271  99.352  49.916                       H
+HETATM   31  H8  AFB Y   1      73.091  97.725  48.982                       H
+HETATM   32  H9  AFB Y   1      72.612 100.732  46.098                       H
+HETATM   33  H10 AFB Y   1      72.072 107.096  50.922                       H
+HETATM   34  H11 AFB Y   1      70.856 105.842  50.883                       H
+HETATM   35  H12 AFB Y   1      72.517 105.438  51.247                       H
+TER      35      AFB Y   1
+END
+CONECT    1    3    9   11
+CONECT    2    7    9
+CONECT    3    1    5   14
+CONECT    4   11
+CONECT    5    3    7   18
+CONECT    6   16   20
+CONECT    7    2    5   15
+CONECT    8   20   22
+CONECT    9    1    2   12
+CONECT   10   18   23
+CONECT   11    1    4   13
+CONECT   12    9
+CONECT   13   11   14   24   27
+CONECT   14    3   13   25   28
+CONECT   15    7   16   19
+CONECT   16    6   15   17
+CONECT   17   16   18   26
+CONECT   18    5   10   17
+CONECT   19   15   20   21   29
+CONECT   20    6    8   19   32
+CONECT   21   19   22   30
+CONECT   22    8   21   31
+CONECT   23   10   33   34   35
+CONECT   24   13
+CONECT   25   14
+CONECT   26   17
+CONECT   27   13
+CONECT   28   14
+CONECT   29   19
+CONECT   30   21
+CONECT   31   22
+CONECT   32   20
+CONECT   33   23
+CONECT   34   23
+CONECT   35   23
+REMARK   1 File created by GaussView 5.0.9
+HETATM    1  C1  AFB Y   1      67.993 104.452  49.172                       C
+HETATM    2  O1  AFB Y   1      68.800 102.069  48.721                       O
+HETATM    3  C2  AFB Y   1      69.241 104.909  49.202                       C
+HETATM    4  O2  AFB Y   1      65.773 105.594  49.481                       O
+HETATM    5  C3  AFB Y   1      70.411 103.974  48.932                       C
+HETATM    6  O3  AFB Y   1      73.549 101.168  47.879                       O
+HETATM    7  C4  AFB Y   1      70.136 102.654  48.655                       C
+HETATM    8  O4  AFB Y   1      73.076  98.929  47.077                       O
+HETATM    9  C5  AFB Y   1      67.703 103.014  48.752                       C
+HETATM   10  O5  AFB Y   1      72.134 105.871  49.278                       O
+HETATM   11  C6  AFB Y   1      67.025 105.568  49.606                       C
+HETATM   12  O6  AFB Y   1      66.534 102.653  48.458                       O
+HETATM   13  C7  AFB Y   1      67.926 106.623  50.257                       C
+HETATM   14  C8  AFB Y   1      69.236 106.429  49.473                       C
+HETATM   15  C9  AFB Y   1      71.331 101.783  48.266                       C
+HETATM   16  C10 AFB Y   1      72.596 102.223  48.258                       C
+HETATM   17  C11 AFB Y   1      72.915 103.677  48.623                       C
+HETATM   18  C12 AFB Y   1      71.876 104.506  48.941                       C
+HETATM   19  C13 AFB Y   1      71.401 100.350  47.833                       C
+HETATM   20  C14 AFB Y   1      72.681 100.319  47.083                       C
+HETATM   21  C15 AFB Y   1      71.705  99.378  48.939                       C
+HETATM   22  C16 AFB Y   1      72.672  98.548  48.442                       C
+HETATM   23  C17 AFB Y   1      71.421 106.726  48.381                       C
+HETATM   24  H1  AFB Y   1      68.049 106.364  51.288                       H
+HETATM   25  H2  AFB Y   1      69.183 106.927  48.527                       H
+HETATM   26  H3  AFB Y   1      73.923 104.034  48.628                       H
+HETATM   27  H4  AFB Y   1      67.567 107.630  50.203                       H
+HETATM   28  H5  AFB Y   1      70.087 106.799  50.005                       H
+HETATM   29  H6  AFB Y   1      70.536 100.025  47.293                       H
+HETATM   30  H7  AFB Y   1      71.271  99.352  49.916                       H
+HETATM   31  H8  AFB Y   1      73.091  97.725  48.982                       H
+HETATM   32  H9  AFB Y   1      72.612 100.732  46.098                       H
+HETATM   33  H10 AFB Y   1      71.614 107.748  48.634                       H
+HETATM   34  H11 AFB Y   1      71.743 106.540  47.378                       H
+HETATM   35  H12 AFB Y   1      70.371 106.531  48.461                       H
+TER      35      AFB Y   1
+END
+CONECT    1    3    9   11
+CONECT    2    7    9
+CONECT    3    1    5   14
+CONECT    4   11
+CONECT    5    3    7   18
+CONECT    6   16   20
+CONECT    7    2    5   15
+CONECT    8   20   22
+CONECT    9    1    2   12
+CONECT   10   18   23
+CONECT   11    1    4   13
+CONECT   12    9
+CONECT   13   11   14   24   27
+CONECT   14    3   13   25   28
+CONECT   15    7   16   19
+CONECT   16    6   15   17
+CONECT   17   16   18   26
+CONECT   18    5   10   17
+CONECT   19   15   20   21   29
+CONECT   20    6    8   19   32
+CONECT   21   19   22   30
+CONECT   22    8   21   31
+CONECT   23   10   33   34   35
+CONECT   24   13
+CONECT   25   14
+CONECT   26   17
+CONECT   27   13
+CONECT   28   14
+CONECT   29   19
+CONECT   30   21
+CONECT   31   22
+CONECT   32   20
+CONECT   33   23
+CONECT   34   23
+CONECT   35   23

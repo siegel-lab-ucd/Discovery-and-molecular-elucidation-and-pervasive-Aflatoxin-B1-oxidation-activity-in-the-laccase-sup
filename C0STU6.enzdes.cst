@@ -1,0 +1,63 @@
+#Histidine 56 to Cu
+
+CST::BEGIN
+  TEMPLATE::   ATOM_MAP: 1 atom_name: CU
+  TEMPLATE::   ATOM_MAP: 1 residue3: CU
+
+  TEMPLATE::   ATOM_MAP: 2 atom_name: ND1 CG CB
+  TEMPLATE::   ATOM_MAP: 2 residue1: H
+
+  CONSTRAINT:: distanceAB: 2.2 0.4 200 1
+
+CST::END  
+
+# Histidine 111 to Cu
+
+CST::BEGIN
+  TEMPLATE::   ATOM_MAP: 1 atom_name: CU
+  TEMPLATE::   ATOM_MAP: 1 residue3: CU
+
+  TEMPLATE::   ATOM_MAP: 2 atom_name: ND1 CG CB
+  TEMPLATE::   ATOM_MAP: 2 residue1: H
+
+  CONSTRAINT:: distanceAB: 2.2 0.4 200   1
+
+CST::END
+
+# Cysteine 104 to Cu
+
+CST::BEGIN
+  TEMPLATE::   ATOM_MAP: 1 atom_name: CU
+  TEMPLATE::   ATOM_MAP: 1 residue3: CU
+
+  TEMPLATE::   ATOM_MAP: 2 atom_name: SG CB CA
+  TEMPLATE::   ATOM_MAP: 2 residue1: C
+
+  CONSTRAINT:: distanceAB: 2.3 0.4 200 1
+
+CST::END
+
+# Methionine 117 to Cu
+
+CST::BEGIN
+  TEMPLATE::   ATOM_MAP: 1 atom_name: CU
+  TEMPLATE::   ATOM_MAP: 1 residue3: CU
+
+  TEMPLATE::   ATOM_MAP: 2 atom_name: SD CG CB
+  TEMPLATE::   ATOM_MAP: 2 residue1: M
+  
+  CONSTRAINT:: distanceAB: 2.8 0.5 200 1
+  
+CST::END
+
+# Histidine 111 - AFB1: C1-NE2
+
+CST::BEGIN
+  TEMPLATE::   ATOM_MAP: 1 atom_name: C1 C5 O1
+  TEMPLATE::   ATOM_MAP: 1 residue3: AFB
+  TEMPLATE::   ATOM_MAP: 2 atom_name: NE2 CD2 CG
+  TEMPLATE::   ATOM_MAP: 2 residue3: HIS
+
+  CONSTRAINT:: distanceAB:    3.3   0.5 100   0
+
+CST::END
